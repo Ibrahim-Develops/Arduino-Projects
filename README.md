@@ -5,5 +5,5 @@
 <h2 align="center">RC Car</h1>
 
 
-<img src="./Remote Control Car with (Aurdino IDE)/Rc Car.png alt="book keeper" width="100%" height="500">
+<img src="./Remote Control Car with (Aurdino IDE)/Rc Car.png" alt="book keeper" width="100%" height="500">
 
